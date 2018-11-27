@@ -1,0 +1,10 @@
+Package: MgMorphoClass
+Title: MgMorhphoClass
+Version: 0.1.0.0000
+Authors@R: person("Xi","Chen",      role=c("aut","cre"), email="xic2014@med.cornell.edu")
+Description: Identifying homeostatic, activating or activated microglias from CNS IHC sections stained for Iba-1
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: EBImage (>= 4.22.1)
+RoxygenNote: 6.1.1
